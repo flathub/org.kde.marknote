@@ -40,8 +40,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/marknote/marknote-1.2.0.tar.xz",
-                    "sha256": "03ffcd6c151626aae1b89269c3a926473a4427d7df40b68fa7d13fe7ad4dd9ef",
+                    "url": "https://download.kde.org/stable/marknote/marknote-1.2.1.tar.xz",
+                    "sha256": "1f3226926f25f11aa2bb2ab641ecdf76a27587121d2d986220654cf71ce9c9a0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 371890,
