@@ -44,8 +44,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/kmime-25.04.1.tar.xz",
-                    "sha256": "8a039adc6ca02a709498a81a81cbf1d28d27525ae37ce7147d4349b0d37a501d",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/kmime-25.04.2.tar.xz",
+                    "sha256": "6102c1191a34475af463f786e7407ee9f328bb75f93a1235e51ab3ef62500d3a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
