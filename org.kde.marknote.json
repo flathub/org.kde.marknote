@@ -5,11 +5,11 @@
     "sdk": "org.kde.Sdk",
     "command": "marknote",
     "finish-args": [
+        "--device=dri",
+        "--filesystem=xdg-documents",
         "--share=ipc",
         "--socket=fallback-x11",
-        "--socket=wayland",
-        "--device=dri",
-        "--filesystem=xdg-documents"
+        "--socket=wayland"
     ],
     "modules": [
         {
