@@ -54,6 +54,10 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/marknote/marknote-$version.tar.xz"
                     }
+                },
+                {
+                    "type": "patch",
+                    "path": "93.diff"
                 }
             ]
         }
