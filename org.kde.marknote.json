@@ -46,18 +46,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/marknote/marknote-1.4.0.tar.xz",
-                    "sha256": "752884b0d9793c37ac89bdc0a1afe25f3d0e9d0069fad766e0fef3762ef2c459",
+                    "url": "https://download.kde.org/stable/marknote/marknote-1.4.1.tar.xz",
+                    "sha256": "96c2f551c3d9a09cdbc2d6cc242e64b3a9c811df7f29410d5b85871ec2ad2799",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 371890,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/marknote/marknote-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "93.diff"
                 }
             ]
         }
