@@ -11,6 +11,11 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
         {
             "name": "kmime",
@@ -32,11 +37,6 @@
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kmime-$version.tar.xz"
                     }
                 }
-            ],
-            "cleanup": [
-                "/include",
-                "/lib/cmake",
-                "/share/qlogging-categories6"
             ]
         },
         {
